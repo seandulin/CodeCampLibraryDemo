@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCampLibraryDemo_Soln", "CodeCampLibraryDemo_Soln\CodeCampLibraryDemo_Soln.csproj", "{F2A9158E-2687-4904-881D-6F8799C701D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDemo", "ClientDemo\ClientDemo.csproj", "{D330BA83-753D-4FE2-A955-98609382EBC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2A9158E-2687-4904-881D-6F8799C701D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A9158E-2687-4904-881D-6F8799C701D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A9158E-2687-4904-881D-6F8799C701D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D330BA83-753D-4FE2-A955-98609382EBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D330BA83-753D-4FE2-A955-98609382EBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D330BA83-753D-4FE2-A955-98609382EBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D330BA83-753D-4FE2-A955-98609382EBC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
